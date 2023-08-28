@@ -1,3 +1,19 @@
+// LABORATORIO 2 PARTE 1
+
+// Nombre:
+// Andrea De Lourdes Lam Pelaez
+// Carné:
+// 20102
+
+
+// Nombre:
+// Gabriel Alejandro Vicente Lorenzo
+// Carné:
+// 20498
+
+
+
+
 #include <iostream>
 #include <fstream>
 #include <cstdlib>
